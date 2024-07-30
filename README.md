@@ -1,4 +1,4 @@
-# repro-renovate-package-manager-digest-pinning
+# repro-renovate-package-manager-digest-pinnin
 
 ## Current behavior
 
